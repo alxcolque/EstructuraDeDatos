@@ -3,7 +3,7 @@
 #include <cstring>
 #include <cstdlib>
 #include <stack>
-using namespace std;///CODIGO POR: univ: COLQUE CHOQUE GU...
+using namespace std;///CODIGO POR: univ: COLQUE CHOQUE Alex G.
 ///realizado en challapata 7 de julio 2017
 const string operadores[5] = {"+", "-", "*", "/", "^"};
 ///lee la expresion ingresada por teclado
